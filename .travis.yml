@@ -23,4 +23,3 @@ script:
     - docker push michalpolakisdd/multi-nginx
     - docker push michalpolakisdd/multi-server
     - docker push michalpolakisdd/multi-worker
-    
